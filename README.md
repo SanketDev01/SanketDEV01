@@ -1,7 +1,6 @@
 Hi, I’m Sanket Pawar! 👋
 
 B.Tech CS | Python & AI Projects | Building Web & ML Solutions | Always Learning & Experimenting
-
  | Aspiring Data Scientist
 
 
