@@ -1,6 +1,8 @@
-Hi, I’m Sanket Pawar! 👋🐼
+Hi, I’m Sanket Pawar! 👋
 
-B.Tech Computer Science Student | AI & Fantasy Cricket Enthusiast | Aspiring Data Scientist
+B.Tech CS | Python & AI Projects | Building Web & ML Solutions | Always Learning & Experimenting
+
+ | Aspiring Data Scientist
 
 
 ---
